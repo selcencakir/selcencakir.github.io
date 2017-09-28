@@ -13,5 +13,5 @@ title: Teaching
 |Econ 3720 | Introduction to Econometrics | Fall 2014, 2016, Spring 2016 |
 |Econ 4210 | International Trade | Fall 2013 |  
 |Econ 4720 | Econometric Methods | Spring 2014, 2015 |  
-|Egmt 1540 | Can a Text Be Ethical | Fall 2017 |  
-|Egmt 1540 | What is Engaged Citizenship | Fall 2017 |  
+|Egmt 1540 | Can a Text Be Ethical? | Fall 2017 |  
+|Egmt 1540 | What is Engaged Citizenship? | Fall 2017 |  
