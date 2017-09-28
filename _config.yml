@@ -112,7 +112,7 @@ url-pretty: " http://selcencakir.github.io"  # eg. "deanattali.com/beautiful-jek
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: "UA-106954592-1"
+google_analytics: "UA-106954592-1"
 
 # Google Tag Manager ID
 #gtm: ""
