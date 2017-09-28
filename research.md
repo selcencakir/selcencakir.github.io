@@ -2,7 +2,9 @@
 layout: page
 title: Research
 ---
-### Party Formation in Parliamentary Democracies (Job market paper)  ###
+### Party Formation in Parliamentary Democracies ###
+
+### (Job market paper)  ###
 
 Party structure in many parliamentary democracies is unstable, especially in closed-list proportional representation systems. In closed-list systems, parties function as an identity to produce rents. Rent production requires political assets, which the members provide to their parties. Party leaders select candidates in advance of elections, and voters can vote only for the party as a whole. Party leaders seek productive politicians, who, in turn, switch their parties when they receive better outside offers. Since parties' competition for rents translates into a competition for productive politicians, the market for rent production resembles a labor market. Moreover, party control over government functions generates valuable club goods. I develop an equilibrium model of party formation which incorporates parties' provision of club goods, rent sharing between a politician and a party leader, and outside options. The model also can be applied to labor markets in which a worker trades off compensating differentials and wages he earns in a firm engaged in team production.
 
