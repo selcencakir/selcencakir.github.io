@@ -5,7 +5,9 @@ title: Contact
 
 
 **Email:**   sc3ch@virginia.edu 
+
 **Office:**   Monroe Hall, Room 208A
+
 **Office Hours** By appointment
 
 **Mailing Address:** 
