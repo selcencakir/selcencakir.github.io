@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RESEARCH
+title: Research
 ---
 ### Party Formation in Parliamentary Democracies (Job market paper)  ###
 
