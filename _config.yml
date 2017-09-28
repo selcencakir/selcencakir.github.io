@@ -24,10 +24,10 @@ description: Ph.D. Candidate in Economics at the University of Virginia
 
 # List of links in the navigation bar
 navbar-links:
-  CONTACT: "Contact"
-  CV:
-  RESEARCH: "Research"
-  TEACHING: "Teaching"
+  Contact : "contact"
+  CV      : #"gunerilhan.github.io/img/Guner_Ilhan_CV_Sep_2017.pdf"
+  Research: "research"
+  Teaching: "teaching"
  
 
 # Image to show in the navigation bar - image must be a square (width = height)
