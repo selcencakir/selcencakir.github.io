@@ -8,7 +8,7 @@ title: Contact
 
 **Office:**   Monroe Hall, Room 208A
 
-**Office Hours** By appointment
+**Office Hours:** By appointment
 
 **Mailing Address:** 
 
