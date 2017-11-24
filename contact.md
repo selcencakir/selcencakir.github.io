@@ -5,7 +5,9 @@ title: Contact
 
 
 **Email:**   sc3ch@virginia.edu 
+
 **Cell:** +1 (434) 466-6303
+
 **Office:**   Monroe Hall, Room 208A
 
 **Mailing Address:** 
