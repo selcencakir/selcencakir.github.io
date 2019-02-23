@@ -24,7 +24,7 @@ description: Thank you for visiting my webpage. I am a PhD Candidate in Economic
 
 # List of links in the navigation bar
 navbar-links:
-  CONTACT : "contact"
+ # CONTACT : "contact"
   CV      : "selcencakir.github.io/img/CVSelcen_Feb2019.pdf"
   RESEARCH: "research"
   TEACHING: "teaching"
