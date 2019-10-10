@@ -2,12 +2,14 @@
 layout: page
 title: Research
 ---
-### Choosing Your Pond: A Structural Model of Political Power Sharing###
+### Choosing Your Pond: A Structural Model of Political Power Sharing ###
 
 
 
 **[Link to the paper](https://selcencakir.github.io/img/Cakir_Pond_October2019.pdf)**
+
 **[Supplementary Material](https://selcencakir.github.io/img/Pond_OnlineAppendix.pdf)**
+
 **[Longer early version](https://selcencakir.github.io/img/Cakir_May2018.pdf)**
 
 ### Abstract  ###
