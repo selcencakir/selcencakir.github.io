@@ -10,7 +10,7 @@ title: Research
 
 **[Supplementary Material](https://selcencakir.github.io/img/Pond_OnlineAppendix.pdf)**
 
-**[Longer early version](https://selcencakir.github.io/img/Cakir_May2018.pdf)**
+**[Early version](https://selcencakir.github.io/img/Cakir_May2018.pdf)**
 
 ### Abstract  ###
 
