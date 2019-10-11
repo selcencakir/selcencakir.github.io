@@ -8,56 +8,40 @@ url: "http://selcencakir.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-#url: "http://selcencakir.github.io/projectname"
+#url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: 'Selcen &#199;ak&#305;r'
+title: 'Selcen Cakir'
 
 # Short description of your site
-#description:  
+description: My webpage
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
- # CONTACT : "contact"
-  CV      : "selcencakir.github.io/img/CVSelcen_Feb2019.pdf"
-  RESEARCH: "research"
-  TEACHING: "teaching"
- 
+  CV      : "CVSelcen_Feb2019.pdf"
+  Research: "research"
+  Teaching: "teaching"
+
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
- avatar: "/img/selcen_pic.jpg"
-
-
-
-# --- Background colour/image options --- #
-
-# By default, the navigation bar and footer have a light gray background, and the main page
-# has a white background. You can specify a different background colour or a background image
-# for the navigation bar, the main page, and the footer.
-# navbar-col: "orange"
-# navbar-img: "/img/bgimage.png"
-# footer-col: "blue"
-# footer-img: "/img/bgimage.png"
-# page-col: "#FF0000"
-# page-img: "/img/bgimage.png"
+avatar: "/img/selcen_pic.jpg"
 
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: 'Selcen &#199;ak&#305;r'
+  name: 'Selcen Cakir'
   email: "selcencakir1@gmail.com"
   facebook: yourname  # eg. daattali
   github: yourname    # eg. daattali
   twitter: yourname   # eg. daattali
-  reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   linkedin: yourname  # eg. daattali
   xing: yourname      # eg. daattali
@@ -66,11 +50,6 @@ author:
   instagram: yourname # eg. daattali
   youtube: yourlink   # eg. user/daattali or channel/daattali
   spotify: yourname   # eg. daattali
-  telephone: yourphone   # eg. +14159998888
-  steam: yourname     # eg. daattali
-  twitch: yourname    # eg. daattali
-  yelp: yourname      # eg. daattali
-  
 
 # Select which links to show in the footer
 footer-links-active:
@@ -80,7 +59,6 @@ footer-links-active:
   twitter: false
   google-plus: false
   github: false
-  reddit: false
   linkedin: false
   xing: false
   stackoverflow: false
@@ -88,10 +66,6 @@ footer-links-active:
   instagram: false
   youtube: false
   spotify: false
-  telephone: false
-  steam: false
-  twitch: false
-  yelp: false
 
 # Select which share links to show in posts
 share-links-active:
@@ -102,28 +76,18 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: " http://selcencakir.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "http://gunerilhan.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
+
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-106954592-1"
 
-# Google Tag Manager ID
-#gtm: ""
-
 # Facebook App ID
 # fb_app_id: ""
-
-# Excerpt Word Length
-# Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 50
-
-# Character used to separate site title and description in HTML document title
-# and RSS feed title
-title-separator: ""
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
@@ -159,13 +123,11 @@ link-tags: false
 
 # Exclude these files from production site
 exclude:
-  - CHANGELOG.md
-  - CNAME
-  - Dockerfile
   - Gemfile
   - Gemfile.lock
   - LICENSE
   - README.md
+  - CNAME
   - Vagrantfile
 
 # prose.io config
@@ -206,13 +168,6 @@ prose:
           label: "Date"
           help: "Enter date of post."
           placeholder: "yyyy-mm-dd"
-          alterable: true
-      - name: "image"
-        field:
-          element: "text"
-          label: "Image"
-          help: "Add a thumbnail image to your post."
-          placeholder: "Thumbnail"
           alterable: true
       - name: "published"
         field:
