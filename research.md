@@ -6,7 +6,7 @@ title: Research
 
 
 
-[Link to the paper](https://selcencakir.github.io/img/Cakir_Pond_October2019.pdf) | [Supplementary Material](https://selcencakir.github.io/img/Pond_OnlineAppendix.pdf) | [Earlier version](https://selcencakir.github.io/img/Cakir_May2018.pdf) 
+[Link to the paper](https://selcencakir.github.io/img/Pond_June2020.pdf) | [Supplementary Material](https://selcencakir.github.io/img/Pond_OnlineAppendix.pdf) | [Earlier version](https://selcencakir.github.io/img/Cakir_May2018.pdf) 
 
 ### Abstract  ###
 
