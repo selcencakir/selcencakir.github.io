@@ -23,7 +23,9 @@ description: My webpage
 
 # List of links in the navigation bar
 navbar-links:
+
   CV      : "selcencakir.github.io/img/SelcenCV_Jan2020.pdf"
+  
   Research: "research"
   Teaching: "teaching"
 
