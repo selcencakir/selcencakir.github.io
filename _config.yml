@@ -27,7 +27,7 @@ navbar-links:
   CV      : "https://selcencakir.github.io/img/CakirSelcen_May2023.pdf"
   
   Research: "research"
-  Teaching: "teaching"
+#  Teaching: "teaching"
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
