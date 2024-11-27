@@ -4,7 +4,7 @@ title: Research
 ---
 ### Choosing Your Pond: A Structural Model of Political Power Sharing ###
 
-[Link to the paper](file:///Users/selcencakir/Desktop/Pond_Nov2024.pdf) | [Supplementary Material](https://selcencakir.github.io/img/Pond_Cakir_OnlineSupplement.pdf) | [Earlier version](https://selcencakir.github.io/img/Cakir_May2018.pdf) 
+| [Link to the paper](file:///Users/selcencakir/Desktop/Pond_Nov2024.pdf) | [Supplementary Material](https://selcencakir.github.io/img/Pond_Cakir_OnlineSupplement.pdf) | [Earlier version](https://selcencakir.github.io/img/Cakir_May2018.pdf) 
 
 ### Abstract  ###
 I develop a model of party formation that explains within-party rent sharing, political selection, and party stability. Parties generate club goods through their control over government functions. Politicians share their political rents with party leaders in exchange for accessing parties’ club goods. I estimate the model for Turkey with a dataset of all listed politicians between 1995 and 2014. I find that the right-wing parties accumulate club goods more easily than they produce rents, which leads to strong party control. Counterfactual exercises provide insights on the institutions that improve the quality of politicians and prevent concentration of power
@@ -30,7 +30,7 @@ discrimination that has a compounding effect. A counterfactual exercise shows th
 lists remained unchanged between the two elections, JDP’s female representation in parlia-
 ment would have been up by 50%, thus highlighting the role that intra-party politics play
 in exacerbating gender-based discrimination (own-gender bias) in political selection.
-[Link to the paper]([https://github.com/selcencakir/selcencakir.github.io/blob/master/img/Delegation_and_Selection_Nov24.pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4946659)) 
+|[Link to the paper]|([https://github.com/selcencakir/selcencakir.github.io/blob/master/img/Delegation_and_Selection_Nov24.pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4946659)) 
 
 ### Syrian Refugees and Human Capital Accumulation of Working-Age Native Children in Turkey (with Elif Erbay and Murat Güray Kırdar) ###
 ###Journal of Human Capital, 17(4), pp.557-592. ###
