@@ -3,7 +3,6 @@ layout: page
 title: Research
 ---
 ### Choosing Your Pond: A Structural Model of Political Power Sharing ###
-
 [Link to the paper](file:///Users/selcencakir/Desktop/Pond_Nov2024.pdf) | [Supplementary Material](https://selcencakir.github.io/img/Pond_Cakir_OnlineSupplement.pdf) | [Earlier version](https://selcencakir.github.io/img/Cakir_May2018.pdf) 
 #### Abstract  ####
 I develop a model of party formation that explains within-party rent sharing, political selection, and party stability. Parties generate club goods through their control over government functions. Politicians share their political rents with party leaders in exchange for accessing parties’ club goods. I estimate the model for Turkey with a dataset of all listed politicians between 1995 and 2014. I find that the right-wing parties accumulate club goods more easily than they produce rents, which leads to strong party control. Counterfactual exercises provide insights on the institutions that improve the quality of politicians and prevent concentration of power
@@ -14,7 +13,7 @@ I develop a model of party formation that explains within-party rent sharing, po
 We construct a dynamic model of two-sided matching in labor markets with multi-dimensional agent and firm heterogeneity. We apply it to study optimal party structure and the decision of how (de)centralized candidate recruitment should be. Parties are non-unitary actors and compete at the local markets over recruitment of competent candidates. Local organizers possess an informational advantage over the distribution of politicians’ skill, which is positively related to electoral rent generation. Party leadership has a dual objective: they want simultaneously to maximize a) the organization’s rents and b) their retention probability. Thus, when deciding how centralized recruiting should be, leaders face a trade-off: delegating selection to local party organizations harnesses all available information and increases electoral returns, but also limits a leader’s ability to stack the organization with loyalists who are more likely to retain her should a (stochastic) leadership challenge arrives. Moreover, ideology alters this trade-off in ways that generate welfare non-monotonicities. We characterize an equilibrium delegation rule with two key properties: a) some high-skilled politicians may select into lower performing parties due to ideological alignment, and b) more moderate and competent leaders rely excessively on market-based recruitment and, as a result, survive relatively shorter at the helm of the organization.
 
 ### All the "Missing" Ladies: Political Selection in High-stakes Contests (with Elif Erbay and Konstantinos Matakos) ###
-|[Link to the paper]|([https://github.com/selcencakir/selcencakir.github.io/blob/master/img/Delegation_and_Selection_Nov24.pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4946659))
+[Link to the paper]([https://github.com/selcencakir/selcencakir.github.io/blob/master/img/Delegation_and_Selection_Nov24.pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4946659))
 #### Abstract ####
 How does political selection respond when the electoral stakes increase? We study the
 effect that changes in the intensity of electoral competition has on women’s political repre-
@@ -31,7 +30,6 @@ lists remained unchanged between the two elections, JDP’s female representatio
 ment would have been up by 50%, thus highlighting the role that intra-party politics play
 in exacerbating gender-based discrimination (own-gender bias) in political selection.
  
-
 ### Syrian Refugees and Human Capital Accumulation of Working-Age Native Children in Turkey (with Elif Erbay and Murat Güray Kırdar) ###
 #### Journal of Human Capital, 17(4), pp.557-592. ####
 [Link to the paper](https://www.journals.uchicago.edu/doi/abs/10.1086/726628) 
@@ -55,3 +53,11 @@ education industries.This research pioneers the estimation of the link between c
 performance, addressing the existing uncertainty regarding the returns on cybersecurity investments,
 particularly in developing countries. The findings underscore the critical importance of cybersecurity as
 firms navigate the digital era.
+
+### A Review of the Economic Costs of Cyber Incidents (with Estefania Vergara-Cobos) ###
+[Link to the paper](https://documents1.worldbank.org/curated/en/099092324164536687/pdf/P17876919ffee4079180e81701969ad0a18.pdf) 
+#### Abstract  ####
+Given the rapid digitization of societies and the increase in costly and sophisticated cyber incidents, there is a
+rising need to prioritize cybersecurity in the investment agendas of economic actors, especially, governments
+and firms. However, a major bottleneck in mainstreaming cybersecurity investments is the unclarity in the
+returns and the unidentified link between cyber incidents and economic performance. This literature survey brings together empirical studies on the direct and indirect costs of cyber incidents, highlighting issues in the study of risk-based approaches based on current estimates that could lead to misinformed decisions. First, this survey identifies the vast variety of unfounded estimates of the cost of cyber incidents. Second, the analysis dives into the difficulty of assessing the full spectrum of costs due to the existence of nonnegligible indirect costs. This article argues that to accurately protect cyberspace, policymakers and stakeholders should aim to understand the full spectrum of economic costs of cyber incidents by promoting research through data collection efforts.
