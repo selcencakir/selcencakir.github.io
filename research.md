@@ -36,6 +36,10 @@ in exacerbating gender-based discrimination (own-gender bias) in political selec
 #### Abstract  ####
 The arrival of Syrian refugees has significantly changed the labor-market conditions and the relative abundance of different skill groups in Turkey. We examine how the arrival of Syrian refugees affects school enrollment and employment of working-age native children using a difference-in-differences instrumental variable methodology. We find a significant drop in employment, largely due to children shifting from work-school balance to education only. School enrollment rises for boys, especially those with educated parents. However, the rate of girls not engaged in employment or education increases, particularly among those with less-educated parents, but decreases for boys with more-educated parents.
 
+### Political Entry Barriers and the Quality of Democracy (with Emekcan Yücel) ###
+#### Abstract  ####
+Small parties that have a slim chance of winning a seat exist in most democracies, yet their impact on democratic quality remains understudied. This paper examines the relationship between the nationwide inclusion threshold (NIT), which measures the level of political barriers for small parties, and democratic outcomes. Exploiting within-variation from 86 countries with a proportional representation or a mixed system from 1990 to 2018, we  find that an increase in the NIT is linked to a decrease in the total number of parties competing in an election, a reduction in polarization and hate speech by political parties, and an increase in corruption and public good provision. At the same time, we  find no discernible impact on over 30 indicators of democratic quality. Our findings suggest that while small parties may not cause structural changes in democratic influence the level of political competition and the political climate.
+
 ### The Role of Cybersecurity in Economic Performance (with Estefania Vergara-Cobos, Baran Berkay Barakçin, and Hagai Mei-Zahav ) ###
 [Link to the paper](https://documents1.worldbank.org/curated/en/099092324164526526/pdf/P178769189c7360111ac1f1185e04824dec.pdf) 
 #### Abstract  ####
