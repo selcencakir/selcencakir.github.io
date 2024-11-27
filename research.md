@@ -5,17 +5,17 @@ title: Research
 ### Choosing Your Pond: A Structural Model of Political Power Sharing ###
 
 [Link to the paper](file:///Users/selcencakir/Desktop/Pond_Nov2024.pdf) | [Supplementary Material](https://selcencakir.github.io/img/Pond_Cakir_OnlineSupplement.pdf) | [Earlier version](https://selcencakir.github.io/img/Cakir_May2018.pdf) 
-# Abstract  #
+#### Abstract  ####
 I develop a model of party formation that explains within-party rent sharing, political selection, and party stability. Parties generate club goods through their control over government functions. Politicians share their political rents with party leaders in exchange for accessing parties’ club goods. I estimate the model for Turkey with a dataset of all listed politicians between 1995 and 2014. I find that the right-wing parties accumulate club goods more easily than they produce rents, which leads to strong party control. Counterfactual exercises provide insights on the institutions that improve the quality of politicians and prevent concentration of power
 
 ###  Delegation and Recruitment in Organizations: The Slippery Slope to "Bad" Leadership (with Konstantinos Matakos and Janne Tukiainen) ###
 [Link to the paper](https://github.com/selcencakir/selcencakir.github.io/blob/master/img/Delegation_and_Selection_Nov24.pdf) 
-# Abstract  #
+#### Abstract ####
 We construct a dynamic model of two-sided matching in labor markets with multi-dimensional agent and firm heterogeneity. We apply it to study optimal party structure and the decision of how (de)centralized candidate recruitment should be. Parties are non-unitary actors and compete at the local markets over recruitment of competent candidates. Local organizers possess an informational advantage over the distribution of politicians’ skill, which is positively related to electoral rent generation. Party leadership has a dual objective: they want simultaneously to maximize a) the organization’s rents and b) their retention probability. Thus, when deciding how centralized recruiting should be, leaders face a trade-off: delegating selection to local party organizations harnesses all available information and increases electoral returns, but also limits a leader’s ability to stack the organization with loyalists who are more likely to retain her should a (stochastic) leadership challenge arrives. Moreover, ideology alters this trade-off in ways that generate welfare non-monotonicities. We characterize an equilibrium delegation rule with two key properties: a) some high-skilled politicians may select into lower performing parties due to ideological alignment, and b) more moderate and competent leaders rely excessively on market-based recruitment and, as a result, survive relatively shorter at the helm of the organization.
 
 ### All the "Missing" Ladies: Political Selection in High-stakes Contests (with Elif Erbay and Konstantinos Matakos) ###
 |[Link to the paper]|([https://github.com/selcencakir/selcencakir.github.io/blob/master/img/Delegation_and_Selection_Nov24.pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4946659))
-# Abstract  #
+#### Abstract ####
 How does political selection respond when the electoral stakes increase? We study the
 effect that changes in the intensity of electoral competition has on women’s political repre-
 sentation in Turkey. We leverage occurrence of two consecutive legislative elections within
@@ -33,8 +33,25 @@ in exacerbating gender-based discrimination (own-gender bias) in political selec
  
 
 ### Syrian Refugees and Human Capital Accumulation of Working-Age Native Children in Turkey (with Elif Erbay and Murat Güray Kırdar) ###
-## Journal of Human Capital, 17(4), pp.557-592. ##
+#### Journal of Human Capital, 17(4), pp.557-592. ####
 [Link to the paper](https://www.journals.uchicago.edu/doi/abs/10.1086/726628) 
-# Abstract  #
+#### Abstract  ####
 The arrival of Syrian refugees has significantly changed the labor-market conditions and the relative abundance of different skill groups in Turkey. We examine how the arrival of Syrian refugees affects school enrollment and employment of working-age native children using a difference-in-differences instrumental variable methodology. We find a significant drop in employment, largely due to children shifting from work-school balance to education only. School enrollment rises for boys, especially those with educated parents. However, the rate of girls not engaged in employment or education increases, particularly among those with less-educated parents, but decreases for boys with more-educated parents.
 
+### The Role of Cybersecurity in Economic Performance (with Estefania Vergara-Cobos, Baran Berkay Barakçin, and Hagai Mei-Zahav ) ###
+[Link to the paper](https://documents1.worldbank.org/curated/en/099092324164526526/pdf/P178769189c7360111ac1f1185e04824dec.pdf) 
+#### Abstract  ####
+Utilizing novel data on over 10,000 disclosed cyber incidents across 190 countries and 21
+industries, along with data on governments’ cybersecurity commitments, this paper investigates the impact
+of cybersecurity on both industries’ performance and macroeconomic outcomes. Specifically, employing
+an instrumental variable (IV) cross-country, cross-industry model with fixed effects, the study demonstrates
+that given an exposure level to cyber incidents, industries perform better in countries that have implemented
+robust national cybersecurity commitments, such as operational legal frameworks, cooperative measures,
+technical advancements, and capacity-building initiatives.
+At the macroeconomic level, the paper reveals a statistically significant negative correlation
+between the frequency of disclosed cyber incidents and GDP per capita in emerging economies, with more
+pronounced effects observed in the public sector, information and telecommunications, finance, and
+education industries.This research pioneers the estimation of the link between cybersecurity and economic
+performance, addressing the existing uncertainty regarding the returns on cybersecurity investments,
+particularly in developing countries. The findings underscore the critical importance of cybersecurity as
+firms navigate the digital era.
