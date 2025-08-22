@@ -15,6 +15,12 @@ Party leaders must choose between decentralizing candidate selection gaining bet
 their own grip or centralizing and stocking the slate with loyal but weaker contenders. We model this as a dynamic two-sided matching
 game where the leader selects the delegated share. Delegation bridges the leader’s information gap yet heightens her vulnerability to future intra-party challenges, and the loyalty premium rises with ideological extremism. The resulting “slippery-slope” equilibrium predicts that moderate or highly competent leaders delegate more, while extremists centralize and thus endure longer, albeit smaller, parties. Inter-party competition endogenizes delegation complementarities and yields a unique welfare-maximizing quota.
 
+###  Lessons from Estimation of a Hazard Model of Vacancies ###  
+#### (with Baran Berkay Barakcin and Steven Stern) ####
+[The paper is available upon request.]() 
+#### Abstract ####
+Using rich micro-data from Reed.co.uk (a leading UK job board), we jointly estimate a hazard model of vacancy duration alongside firms'wage-posting decisions (whether to post a wage and at what level). This unified approach accounts for selection bias-wages are observed only when posted- and endogeneity, capturing the interdependence between wage disclosure and hiring speed. Our results show that congested job-title-level markets (many nearly identical concurrent vacancies)fill significantly more slowly and feature fewer wage postings with lower pay rates. By contrast, tighter labor market conditions at the broader occupation level increase vacancy hazard rates and raise posted wages. Higher local unemployment also lengthens vacancy durations and reduces wage posting. Finally, vacancies advertising higher wages fill faster, consistent with monopsony theory's wage-setting trade-off and improved matching efficiency. Overall, our findings underscore the importance of monopsonistic wage-setting and matching efficiency in shaping hiring outcomes.
+
 ###  Hidden Pay, Random Matches ###  
 [The paper is available upon request.]() 
 #### Abstract ####
