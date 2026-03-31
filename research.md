@@ -31,20 +31,7 @@ This paper examines why firms persistently avoid posting wages, even though tran
 ####  Electoral Studies, 99, 103032. ####
 [Link to the paper](https://www.sciencedirect.com/science/article/pii/S0261379425001386)
 #### Abstract ####
-How does political selection respond when the electoral stakes increase? We study the
-effect that changes in the intensity of electoral competition has on women’s political repre-
-sentation in Turkey. We leverage occurrence of two consecutive legislative elections within
-few months as a natural experiment giving rise to a DiD strategy which allows us to identify
-JDP’s changes in its list composition and rank as a response to heightened competition. We
-find that the latter led to a wholesale removal and demotion of women candidates from its
-lists, bucking the previous trend of increasing female representation. Heterogeneity anal-
-ysis further reveals that most of the women candidates were removed from electable seats
-and safe (conservative) districts. While this is consistent with theories of statistical discrim-
-ination, the removal of women even from inconsequential positions also reveals taste-based
-discrimination that has a compounding effect. A counterfactual exercise shows that had
-lists remained unchanged between the two elections, JDP’s female representation in parlia-
-ment would have been up by 50%, thus highlighting the role that intra-party politics play
-in exacerbating gender-based discrimination (own-gender bias) in political selection.
+How do parties update candidate lists after electoral setbacks, and what does this mean for women’s representation? We exploit Turkey’s 2015 back-to-back parliamentary elections as quasi-experimental leverage and implement a difference-in-differences design that compares the governing Justice and Development Party (JDP) to the Republican People’s Party (RPP), whose March 2015 primaries largely fixed the district-level gender composition of slates. Falling short of a single-party majority in June was followed by a roughly 40 % contraction in the JDP’s women candidates and a disproportionate downgrading at electable ranks, interrupting a decade-long upward trend. The contraction is concentrated in conservative strongholds. A rank-weighted decomposition shows that net removals, rather than simple demotions, account for most of the decline; changes outside electable ranks are smaller and imprecisely estimated. Event-time estimates indicate the shock produced a one-off adjustment that reverted by 2018. Taken together, the evidence is most consistent with a mix of statistical discrimination where seats are at stake and attribution bias that overshoots, illustrating how elite responses under compressed timelines can quickly erode representational gains in closed-list systems.
  
 ### Syrian Refugees and Human Capital Accumulation of Working-Age Native Children in Turkey ###  
 #### (with Elif Erbay and Murat Güray Kırdar) ####
